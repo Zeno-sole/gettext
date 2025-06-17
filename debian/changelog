@@ -1,3 +1,9 @@
+gettext (0.22.5-2deepin1) unstable; urgency=medium
+
+  * feat: add sw64 support
+
+ -- Deepin Packages Builder <packages@deepin.org>  Tue, 17 Jun 2025 10:05:14 +0800
+
 gettext (0.22.5-2) unstable; urgency=medium
 
   * This upload should use the new dh-elpa. Closes: #1077102.
